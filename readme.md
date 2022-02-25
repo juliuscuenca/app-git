@@ -7,3 +7,7 @@ Realizamos operaciones con dichos comandos
   git branch -d nombrerrama
 ## cambiar de rama
   git checkout nombrerrama
+## determinar el achivo remoto
+git remote add origin https://...
+## subir a github
+git push origin master
